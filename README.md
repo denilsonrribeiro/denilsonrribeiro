@@ -3,8 +3,8 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Boas Práticas**: Arquiteturas de Software, Microservicos (Asp.Net), Clean Arquitecture, Clean Code 
-- **Linguagens de Programação**: C#, JavaScript, Typescript, NodeJs, Html, Css
-- **Frameworks e Bibliotecas**: ASP.NET Core, React
+- **Linguagens de Programação**: C#, JavaScript, Typescript, Html, Css
+- **Frameworks e Bibliotecas**: ASP.NET Core, React, NextJs, NodeJs
 - **Bancos de Dados**: Sql Server, Postgre, Oracle, MySql, MariaDb, MongoDb, AWS RDS 
 - **Cloud/Serviços**: AWS(EC2, S3, SQS, SNS, RDS Elasticsearch, Api Gateway, Secret Manager)
 - **Ferramentas**: Docker, Git, Mensageria (RabbitMQ, Kafka, SQS)
