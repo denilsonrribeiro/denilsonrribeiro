@@ -39,11 +39,6 @@
 - [Project Management App](https://github.com/seu_usuario/project-management-app): Uma aplicação de gerenciamento de projetos construída com React e Node.js.
 - [E-commerce Platform](https://github.com/seu_usuario/e-commerce-platform): Plataforma de e-commerce desenvolvida com Django e React.
 
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/seu_usuario)
-- [E-mail](mailto:seuemail@example.com)
-
 
   
   ##
